@@ -1,6 +1,6 @@
 ---
 title: 记录自己的故事 （1）
-date: 2019-06-07 20:06:55
+date: 2020-02-16 13:35:55
 tags: Life
 ---
 
@@ -14,8 +14,9 @@ tags: Life
 
 ###### 附两张当时做的登陆界面
 
-![登陆界面](/source/images/Ambii_web_ss.png) 
-![登陆界面手机size](/source/images/Ambii_mobile_ss.png)
+![登陆界面手机size](https://raw.githubusercontent.com/liamLacuna/light-blog-images/master/Ambii_mobile_ss.png) 
+
+![登陆界面](https://raw.githubusercontent.com/liamLacuna/light-blog-images/master/Ambii_web_ss.png)
 
 #### 我是2018年9月份加入的Ambii 直到2019的5月份正式离开了 
 
